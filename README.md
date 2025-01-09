@@ -1,5 +1,7 @@
+<img align="right" src="https://go.dev/images/gophers/megaphone-gopher.svg">
+
 ## Hello! I'm Andrey 👋🏼
-<img align="left" src="https://go.dev/images/gophers/megaphone-gopher.svg">
+
 <!--
 **proto-fmt/proto-fmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
